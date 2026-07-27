@@ -1,0 +1,1 @@
+("8.18" ta6nt ("f0149f6d5fc230db94147ae8c394e5d51f5763b5" . "96f4dcabe3e6eaf7875124b9e79dcbbc4d882868") (collects #"drracket" #"private" #"drracket-errortrace-key.rkt") (collects #"r7rs" #"base.rkt") (collects #"r7rs" #"inexact.rkt") (collects #"r7rs" #"lang" #"reader.rkt") (collects #"r7rs" #"main.rkt") (collects #"racket" #"base.rkt") (collects #"racket" #"runtime-config.rkt"))
